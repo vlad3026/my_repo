@@ -1,0 +1,24 @@
+<table border = '1'>
+	<tr>
+		<th>
+			ID
+		</th>
+		<th>
+			Name
+		</th>
+		<th>
+			Position
+		</th>
+		<th>
+			Salary
+		</th>
+		<th>
+            Responsibility
+		</th>
+		<th>
+            Liberties
+		</th>
+		<th>
+            Actions
+		</th>
+    </tr>
